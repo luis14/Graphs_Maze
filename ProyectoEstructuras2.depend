@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1432602071 source:c:\users\palaciosleandro\dropbox\proyectoestructuras2\proyectoestructuras2\main.cpp
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<ctype.h>
+	"Grafo.h"
+	"LinkedList.h"
+
+1432542859 c:\users\palaciosleandro\dropbox\proyectoestructuras2\proyectoestructuras2\include\grafo.h
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<math.h>
+	<time.h>
+	"LinkedList.h"
+
+1432170270 c:\users\palaciosleandro\dropbox\proyectoestructuras2\proyectoestructuras2\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1432170270 c:\users\palaciosleandro\dropbox\proyectoestructuras2\proyectoestructuras2\include\node.h
+
+1432356013 c:\users\palaciosleandro\dropbox\proyectoestructuras2\proyectoestructuras2\include\arco.h
+
